@@ -36,6 +36,8 @@ Use a conversational LLM (like GPT-4o/Claude) UI to develop a detailed specifica
    ```
    Ask me one question at a time so we can develop a thorough, step-by-step spec for this idea. Each question should build on my previous answers, and our end goal is to have a detailed specification I can hand off to a developer. Let's do this iteratively and dig into every relevant detail. Remember, only one question at a time.
 
+   Continue asking questions iteratively until all key aspects—such as functionality, user experience, technical requirements, and edge cases—are well-defined. Once you determine that we have gathered enough details for a comprehensive specification, summarize the final spec for my review and confirm if I’d like to refine anything further before finalizing.
+
    Here's the idea:
    [YOUR IDEA HERE]
    ```
